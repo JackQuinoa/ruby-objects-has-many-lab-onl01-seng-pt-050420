@@ -20,7 +20,7 @@ class Song
   end
   
   def artist_name 
-    binding.pry 
+   # binding.pry 
      if self.artist
        self.artist.name 
     else 
