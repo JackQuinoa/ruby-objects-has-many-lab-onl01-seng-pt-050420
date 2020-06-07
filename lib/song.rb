@@ -22,7 +22,6 @@ class Song
     if artist_name == " "
       return nil 
     end
-    self.artist_name = @artist 
   end
   
 end
