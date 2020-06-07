@@ -23,10 +23,9 @@ class Song
     binding.pry 
      if self.artist
        self.artist.name 
-        
-       
-      
-     end
+    else 
+      nil
+    end
   end
   
  end
