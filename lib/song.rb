@@ -18,10 +18,10 @@ class Song
     @name 
   end
   
-  def artist_name 
-    if artist_name == " "
-      return nil 
-    end
-  end
+#   def artist_name 
+#     if artist_name == " "
+#       return nil 
+#     end
+#   end
   
-end
+# end
