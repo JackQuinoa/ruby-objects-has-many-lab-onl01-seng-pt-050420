@@ -22,6 +22,7 @@ class Song
   def artist_name 
     binding.pry 
      if self.artist
+       self.artist.name 
         
        
       
